@@ -1,5 +1,5 @@
-@import url("https://fonts.google.com/specimen/Montserrat");
-@import url("https://fonts.google.com/specimen/Caladea");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500&display=swap%22");
+@import url("https://fonts.googleapis.com/css?family=Caladea:400&display=swap%22");
 @import "reset";
 @import "_title";
 
@@ -163,7 +163,7 @@ header {
 .gallery {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(2, 410px);
+  grid-template-rows: repeat(3, 250px);
   .gallery__poster {
     img {
       max-width: 100%;
