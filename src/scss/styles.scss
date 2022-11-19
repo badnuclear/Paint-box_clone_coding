@@ -163,7 +163,7 @@ header {
 .gallery {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(2, 200px);
+  grid-template-rows: repeat(2, 300px);
   .gallery__poster {
     img {
       max-width: 100%;
